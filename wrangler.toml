@@ -1,4 +1,4 @@
-name = "nextcord-gay"
+name = "nextcordgaytwo"
 account_id = "6ec86b94bbb787b0eb3cf9efa336bdfe"
 route = "nextcord.gay/*"
 workers_dev = true
