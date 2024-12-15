@@ -1,11 +1,5 @@
 # nextcord.gay
 
-> [!CAUTION]
-> I no longer own the `nextcord.gay` domain. https://nextcord-gay.ooliver.workers.dev has been kept up as it does not cost me anything.
-
-> [!WARNING]
-> This has now been archived. I was not willing to pay $30 to renew this domain (it was $8 for the first year), so this has come to its graceful end.
-
 A cloudflare worker to use the user-agent for ~~rickrolling~~ without a discord embed
 
 ## Build
